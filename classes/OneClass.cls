@@ -1,5 +1,5 @@
 public class OneClass{
-    //public Static Integer inputNumber=10;
+    //public Static Integer inputNumber=10;third
     public void checkEvenOdd(Integer inputNumber)
     {
         if(Math.Mod(inputNumber,2)==0)
