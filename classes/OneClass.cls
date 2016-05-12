@@ -1,5 +1,6 @@
 public class OneClass{
     //public Static Integer inputNumber=10;third finals final very final pudi this is final rahim
+    //Why are you making changes i my Org Rahimmmmmmmmmmmmmmmmmm
     public void checkEvenOdd(Integer inputNumber)
     {
         if(Math.Mod(inputNumber,2)==0)
