@@ -1,4 +1,5 @@
 public class OneClass{
+//Deepak made changes
     //public Static Integer inputNumber=10;third finals final very final pudi this is final rahim
     //Why are you making changes i my Org Rahim,coz i want to do so itsss
     public void checkEvenOdd(Integer inputNumber)
