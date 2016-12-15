@@ -5,6 +5,8 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Account</members>
+        <members>Jennkins__c</members>
         <members>Student__c</members>
         <name>CustomObject</name>
     </types>
