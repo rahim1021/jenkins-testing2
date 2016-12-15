@@ -10,5 +10,9 @@
         <members>Student__c</members>
         <name>CustomObject</name>
     </types>
+    <types>
+        <members>Custom Platform User</members>
+        <name>Profile</name>
+    </types>
     <version>36.0</version>
 </Package>
